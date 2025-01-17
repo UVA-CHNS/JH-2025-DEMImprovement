@@ -76,4 +76,4 @@ To ensure all scripts run correctly, the following Python packages must be insta
 # Citation
 If you use this code or the framework in your research, please cite our paper:
 
-Zandsalimi, Z., Barbosa, S.A., Goodall, J.L., Alemazkoor, N., Shafiee-Jood, M. (2024). Deep Learning-Based Downscaling of Global Digital Elevation Models for Enhanced Urban Flood Modeling. [Accepted to the Journal of Hydrology].
+Zanko Zandsalimi, Sergio A. Barbosa, Negin Alemazkoor, Jonathan L. Goodall, Majid Shafiee-Jood, Deep learning-based downscaling of global digital elevation models for enhanced urban flood modeling, Journal of Hydrology, 2025, 132687, ISSN 0022-1694, https://doi.org/10.1016/j.jhydrol.2025.132687
